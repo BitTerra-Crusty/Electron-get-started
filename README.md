@@ -2,7 +2,7 @@
 Getting started with electron framework
 
 This is an introduction to electron framework.
-This application is a simple hello world desktop application from beginners
+This application is a simple hello world desktop application for beginners
 
 To Run
 

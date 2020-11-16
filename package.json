@@ -1,0 +1,19 @@
+{
+  "name": "electron-get-started",
+  "version": "1.0.0",
+  "description": "Getting start with electron framework",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^10.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitTerra-Crusty/Electron-get-started.git"
+  },
+  "author": "BitTerra",
+  "license": "ISC"
+}
